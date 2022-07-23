@@ -6,9 +6,9 @@
 <details>
     <summary>Alarms</summary>
 
-### Button
+### Set Alarm
 ![Set Alarm]()
-### Notications
+### Notifications
 ![Notifications]()
 
 </details>
