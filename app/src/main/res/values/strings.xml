@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="load">Wait a moment...!</string>
+    <string name="set">SET ALARM</string>
+</resources>
