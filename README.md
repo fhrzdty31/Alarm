@@ -4,7 +4,7 @@
 ### Fahreza Ditya Alfandry 19 / XI RPL 3
 
 <details>
-    <summary>Notifications</summary>
+    <summary>Alarms</summary>
 
 ### Button
 ![Set Alarm]()
